@@ -1,5 +1,7 @@
+# CarND-Path-Planning-Project
+Self-Driving Car Engineer Nanodegree Program
 
-扩展阅读：
+### 扩展阅读：
 1.Path planning in environments of different complexity
 https://www.mathworks.com/help/robotics/examples/path-planning-in-environments-of-difference-complexity.html;jsessionid=776aa4482622d72d90e2dc900187
 2.Robot motion Planning:
@@ -26,11 +28,9 @@ http://www.scielo.org.co/pdf/inge/v21n2/v21n2a05.pdf
 https://medium.com/@mohankarthik/path-planning-in-highways-for-an-autonomous-vehicle-242b91e6387d
 13.Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions
 https://www.sciencedirect.com/science/article/pii/S0968090X15003447
-项目概述：
-运用C++实现一个path planner使车辆在三车道高速上尽量快速驾驶并通过优达学城模拟器模拟。
 
-# CarND-Path-Planning-Project
-Self-Driving Car Engineer Nanodegree Program
+### 项目概述：
+运用C++实现一个path planner使车辆在三车道高速上尽量快速驾驶并通过优达学城模拟器模拟。
    
 ### Simulator.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2).
