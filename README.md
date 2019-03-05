@@ -4,30 +4,45 @@ Self-Driving Car Engineer Nanodegree Program
 ### 扩展阅读：
 1.Path planning in environments of different complexity
 https://www.mathworks.com/help/robotics/examples/path-planning-in-environments-of-difference-complexity.html;jsessionid=776aa4482622d72d90e2dc900187
+
 2.Robot motion Planning:
 http://ais.informatik.uni-freiburg.de/teaching/ss11/robotics/slides/18-robot-motion-planning.pdf
+
 3.Robotic Path Planning:
 http://ais.informatik.uni-freiburg.de/teaching/ss10/robotics/slides/16-pathplanning.pdf
+
 4.what is the difference between path planning and motion planning:
 https://robotics.stackexchange.com/questions/8302/what-is-the-difference-between-path-planning-and-motion-planning
+
 5.C++Debugging Strategies, Tips, and Gotchas:
 https://www.cprogramming.com/debugging/debugging_strategy.html
+
 6.Path Planning for Collision Avoidance Maneuver
 https://www.researchgate.net/publication/267596342_Path_Planning_for_Collision_Avoidance_Maneuver
+
 7.Optimal Trajectory Planning for Glass-Handing Robot Based on Execution Time Acceleration and Jerk:
 https://www.hindawi.com/journals/jr/2016/9329131/
+
 8.Optimal Trajectory Generation for Dynamic Street Scenarios in a Frenet Frame:
 https://www.semanticscholar.org/paper/Optimal-trajectory-generation-for-dynamic-street-in-Werling-Ziegler/f95577df76d3a78de71ff0ced34140708bc3e2b4
+
 9.Udacity CS373: Programming a Robotic Car Unit 4: Motion:
 https://www.udacity.com/file?file_key=agpzfnVkYWNpdHl1ckcLEgZDb3Vyc2UiBWNzMzczDAsSCUNvdXJzZVJldiIHZmViMjAxMgwLEgRVbml0GIHQDwwLEgxBdHRhY2hlZEZpbGUYwYUTDA
+
 10.Safe Motion Planning for Autonomous Driving
 https://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1856&context=etd_hon_theses
+
 11.Local and Global Path Generation for Autonomous Vehicles Using Splines
 http://www.scielo.org.co/pdf/inge/v21n2/v21n2a05.pdf
+
 12.另一位学生的解决方案：
 https://medium.com/@mohankarthik/path-planning-in-highways-for-an-autonomous-vehicle-242b91e6387d
+
 13.Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions
 https://www.sciencedirect.com/science/article/pii/S0968090X15003447
+
+14.motion planning和path planning的区别：
+https://robotics.stackexchange.com/questions/8302/what-is-the-difference-between-path-planning-and-motion-planning?answertab=active#tab-top
 
 ### 项目概述：
 运用C++实现一个path planner使车辆在三车道高速上尽量快速驾驶并通过优达学城模拟器模拟。
