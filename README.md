@@ -44,6 +44,14 @@ https://www.sciencedirect.com/science/article/pii/S0968090X15003447
 14.motion planning和path planning的区别：
 https://robotics.stackexchange.com/questions/8302/what-is-the-difference-between-path-planning-and-motion-planning?answertab=active#tab-top
 
+15.轨迹聚合 trajectory clustering for motion prediction：
+http://video.udacity-data.com.s3.amazonaws.com/topher/2017/July/5978c2c6_trajectory-clustering/trajectory-clustering.pdf
+
+16.汽车的运动学模型：
+https://blog.csdn.net/adamshan/article/details/78696874
+
+17.A comparative study of multiple-model algorithms for maneuvering target tracking：
+https://d17h27t6h515a5.cloudfront.net/topher/2017/June/5953fc34_a-comparative-study-of-multiple-model-algorithms-for-maneuvering-target-tracking/a-comparative-study-of-multiple-model-algorithms-for-maneuvering-target-tracking.pdf
 ### 项目概述：
 运用C++实现一个path planner使车辆在三车道高速上尽量快速驾驶并通过优达学城模拟器模拟。
    
