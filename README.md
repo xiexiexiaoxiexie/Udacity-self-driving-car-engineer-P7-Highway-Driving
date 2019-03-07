@@ -1,6 +1,6 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
-
+路径规划很有趣！！！
 ### 扩展阅读：
 1.Path planning in environments of different complexity
 https://www.mathworks.com/help/robotics/examples/path-planning-in-environments-of-difference-complexity.html;jsessionid=776aa4482622d72d90e2dc900187
@@ -52,6 +52,23 @@ https://blog.csdn.net/adamshan/article/details/78696874
 
 17.A comparative study of multiple-model algorithms for maneuvering target tracking：
 https://d17h27t6h515a5.cloudfront.net/topher/2017/June/5953fc34_a-comparative-study-of-multiple-model-algorithms-for-maneuvering-target-tracking/a-comparative-study-of-multiple-model-algorithms-for-maneuvering-target-tracking.pdf
+
+18.Optimal Trajectory Generation For Dynamic Street Scenarios In A Frenet Frame
+http://video.udacity-data.com.s3.amazonaws.com/topher/2017/July/595fd482_werling-optimal-trajectory-generation-for-dynamic-street-scenarios-in-a-frenet-frame/werling-optimal-trajectory-generation-for-dynamic-street-scenarios-in-a-frenet-frame.pdf
+
+19.Intention-Net: Integrating Planning and Deep Learning for Goal-Directed Autonomous Navigation：
+https://arxiv.org/abs/1710.05627
+
+20.Learning to Navigate in Cities Without a Map：
+https://arxiv.org/abs/1804.00168
+
+21.A Look at Motion Planning for Autonomous Vehicles at an Intersection ：
+https://arxiv.org/abs/1806.07834
+
+22.DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation
+https://arxiv.org/abs/1801.02805
+
+
 ### 项目概述：
 运用C++实现一个path planner使车辆在三车道高速上尽量快速驾驶并通过优达学城模拟器模拟。
    
